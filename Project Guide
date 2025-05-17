@@ -1,0 +1,36 @@
+How to Run The Project:
+
+Steps / Commands to Run the File:
+
+STEP:1 - Open folder 'tasha resorts'.
+
+STEP:2 - Open new terminal and run the following commands:
+            For Frotend:
+                -> cd frontend
+                -> cd final
+                -> npm run dev
+                -> follow the link to the browser
+
+STEP:3 - Open new terminal:
+            For Backend:
+                -> cd backend
+                -> node server.js
+
+
+Features of the Project:
+
+1. The Main Components of this project are:
+    - Home Component
+    - Purpose1, Purpose2, Purpose3, Purpose4
+    - Stay, Dining, Wedding, Events
+    - Signup and Login Components
+
+2. The Signup page asks the user for creating an account using email and log in with the same email provided.
+
+3. The Forms pages allows user to book rooms, tables, wedding events and more according to their requirements.
+
+4. The Admin allows only the admin with the unique email and password to access all the data entered by the user.
+
+5. The Admin email address and password are:
+    -> email address: 'tasha123@gmail.com'
+    -> password: 'tasha123'

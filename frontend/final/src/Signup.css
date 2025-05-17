@@ -1,0 +1,39 @@
+.container2 {
+  display: flex;
+  background-size: 100vh;
+  background-color: rgb(171, 169, 168);
+  padding-top:170px;
+  padding-bottom:172px;
+  top:0;
+  bottom:0;
+  min-height:100%;
+  min-width:100%;
+}
+  
+.loginlogo {
+  height:200px;
+  width:400px;
+  margin-top:30px;
+  margin-left: 300px;
+  margin-right:100px;
+  box-shadow: 5px 5px 8px 5px rgba(248, 248, 248, 0.2), 5px 6px 20px 5px rgba(246, 246, 246, 0.19);
+}
+  
+.loginlink {
+  color:black;
+}
+
+.formsign {
+  text-align: center;
+  margin-top:-50px;
+  padding:20px;
+ }
+
+.shead {
+  font-family: "Emilys Candy", serif;
+}
+
+.form-label, .already {
+  font-family:"Delius", cursive;
+  font-size:18px;
+}
